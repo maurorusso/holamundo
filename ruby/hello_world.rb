@@ -1,5 +1,5 @@
 class HelloWorld
-  def say_hello
-    puts "Hola Mundo"
+  def helloworld
+    puts "Hola mundo"
   end
 end
