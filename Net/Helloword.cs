@@ -1,5 +1,5 @@
-public class Heloword
-{
-    public Heloword()
-    {}
+public class HelloWord {
+    public HelloWord() {
+      Console.log("Hola");
+    }
 }
